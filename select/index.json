@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "はじめて君としゃべった",
+  "base_artist": "Ga Ga Ga SP",
+  "createdAt": "2026-03-02T14:09:38.102682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "GaGaGa SP",
+      "has_synced": true,
+      "path": "select/01_はじめて君としゃべった_GaGaGa_SP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "ガガガSP",
+      "has_synced": true,
+      "path": "select/02_はじめて君としゃべった_ガガガSP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "GaGaGa SP",
+      "has_synced": true,
+      "path": "select/03_はじめて君としゃべった_GaGaGa_SP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "ガガガSP",
+      "has_synced": true,
+      "path": "select/04_はじめて君としゃべった_ガガガSP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "ガガガSP",
+      "has_synced": false,
+      "path": "select/05_はじめて君としゃべった_ガガガSP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "GaGaGa SP",
+      "has_synced": true,
+      "path": "select/06_はじめて君としゃべった_GaGaGa_SP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "GaGaGa SP",
+      "has_synced": false,
+      "path": "select/07_はじめて君としゃべった_GaGaGa_SP.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "はじめて君としゃべった",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_はじめて君としゃべった_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじめて君としゃべった",
+      "artist": "ガガガSP",
+      "has_synced": false,
+      "path": "select/pl_01_はじめて君としゃべった_ガガガSP.txt"
+    }
+  ]
+}
